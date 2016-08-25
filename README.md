@@ -2,7 +2,7 @@
 Se requiere determinar el sueldo semanal de un trabajador con base en las horas que trabaja y el pago por hora que recibe.
 
 1. INICIO
-2. PEDIR DATOS
+2. LEER DATOS
    - dato 1
    - dato 2 
 3. MULTIPLICAR DATOS
